@@ -1,0 +1,7 @@
+name: BlockCommand
+author: dredsss
+version: 1
+main: dredsss.blockcommand.Main
+commands:
+  blockcommand:
+    help: Toggle command executor setup mode
