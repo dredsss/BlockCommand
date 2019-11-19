@@ -1,0 +1,10 @@
+messages:
+  noperm: "§cNo permissions"
+  toggled: "§bClick with your mouse on the block you want to be a command executor"
+  commandSet: "§aCommand was set, left or right click it to execute command"
+  commandDel: "§aIt is all set to delete a BlockCommand instance, left click it"
+  badOrder: "§cYou cannot create and delete a BlockCommand instance at one time"
+  success: "§aSuccessfully executed action!"
+commands:
+  world:
+    0|0|0: "spawn"
